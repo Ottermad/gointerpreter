@@ -1,8 +1,9 @@
 package ast
 
 import (
-	"github.com/ottermad/gointerpreter/token"
 	"testing"
+
+	"github.com/ottermad/gointerpreter/token"
 )
 
 func TestString(t *testing.T) {
